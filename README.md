@@ -6,6 +6,5 @@ Heroku deplyment link: https://intense-forest-71138.herokuapp.com
 Webpack, workbox-wpa-plugin, express.js, are implemented with browser indexedDB, service worker, caching policy and manifest to enable the fast, offline and installable wep app user experience.
 
 Screenshot: <br>
-![alt text](https://github.com/andrewouyang64/text-editor/client/src/images/jatetexteditor.pnp)
-
+![Jatetexteditor](https://user-images.githubusercontent.com/99464607/178118168-1c3fc7f0-6bbc-4894-9dd4-89de6a341ea8.png)
 
